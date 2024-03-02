@@ -1,8 +1,8 @@
-# Deploy: https://marker.cx.ua/
+# Deploy: https://microdev.marker.cx.ua/
 
 ## Description
 
-Blog about games. Reviews of new and popular games. Publication of news about the gaming industry, announcements of future releases, updates and events in the world of games.
+Blog about development for microcontrollers.
 
 ## Tech Stack
 
